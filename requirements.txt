@@ -1,5 +1,4 @@
 flask
-openai
 numpy
 python-dotenv
 flask-cors
